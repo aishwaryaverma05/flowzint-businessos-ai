@@ -73,7 +73,7 @@ Recovered Payments: ₹${recovered}
 Give a short, practical, business-focused answer.
 `;
 
-      const response = await fetch("http://localhost:5000/ask-ai", {
+      const response = await fetch("https://flowzint-backend.onrender.com/ask-ai", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
