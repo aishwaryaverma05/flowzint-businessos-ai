@@ -219,6 +219,6 @@ instead of simply displaying reports.
 
 ## Team
 
-FlowZint BusinessOS AI
+made by Aishwarya Verma
 
 AI-Powered Revenue Recovery Copilot
